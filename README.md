@@ -2,7 +2,7 @@
 
 Blood Transfusion Service Center Data Set Data taken from the Blood Transfusion Service Center in Hsin-Chu City in Taiwan -- this is a classification problem.
 
-To demonstrate the RFMTC marketing model (a modified version of RFM), this study adopted the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan. The center passes their blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. To build an FRMTC model, we selected 748 donors at random from the donor database. link
+To demonstrate the RFMTC marketing model (a modified version of RFM), this study adopted the donor database of Blood Transfusion Service Center in Hsin-Chu City in Taiwan. The center passes their blood transfusion service bus to one university in Hsin-Chu City to gather blood donated about every three months. To build an FRMTC model, we selected 748 donors at random from the donor database. link: https://www.openml.org/d/1464
 
 V1: Recency - months since last donation
 
